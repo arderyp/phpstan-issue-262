@@ -1,3 +1,5 @@
+This repo is a demo for: [phpstan/phpstan issue #262](https://github.com/phpstan/phpstan-symfony/issues/262)
+
 ```
 $ ./vendor/bin/phpstan
 Note: Using configuration file /home/USER/phpstan-issue-262/phpstan.neon.
